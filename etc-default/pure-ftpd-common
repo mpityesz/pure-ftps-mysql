@@ -7,7 +7,7 @@
 #STANDALONE_OR_INETD=standalone
 STANDALONE_OR_INETD=standalone
 
-# VIRTUALCHROOT: 
+# VIRTUALCHROOT:
 # whether to use binary with virtualchroot support
 # valid values are "true" or "false"
 # Any change here overrides the setting in debconf.
